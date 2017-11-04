@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer/v_1.0.1" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.4" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" odpoved_datum_cas="2017-11-04T13:30:26" odpoved_pocet="1" odpoved_typ="Standard" vystup_format="XML" xslt="klient" validation_XSLT="/ares/xml_doc/schemas/ares/ares_answer/v_1.0.0/ares_answer.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer/v_1.0.1 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer/v_1.0.1/ares_answer_v_1.0.1.xsd" Id="ares">
+<are:Odpoved>
+<are:Pocet_zaznamu>1</are:Pocet_zaznamu>
+<are:Typ_vyhledani>FREE</are:Typ_vyhledani>
+<are:Zaznam>
+<are:Shoda_ICO>
+<dtt:Kod>9</dtt:Kod>
+</are:Shoda_ICO>
+<are:Vyhledano_dle>ICO</are:Vyhledano_dle>
+<are:Typ_registru>
+<dtt:Kod>4</dtt:Kod>
+<dtt:Text>RÅ½P</dtt:Text>
+</are:Typ_registru>
+<are:Datum_vzniku>1992-08-19</are:Datum_vzniku>
+<are:Datum_platnosti>2017-11-04</are:Datum_platnosti>
+<are:Pravni_forma>
+<dtt:Kod_PF>101</dtt:Kod_PF>
+</are:Pravni_forma>
+<are:Obchodni_firma>Jarmila JonovÃ¡</are:Obchodni_firma>
+<are:ICO>10123288</are:ICO>
+<are:Identifikace>
+<are:Adresa_ARES>
+<dtt:ID_adresy>404752920</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_okresu>Jihlava</dtt:Nazev_okresu>
+<dtt:Nazev_obce>TelÄ</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>TelÄ-Å tÄpnice</dtt:Nazev_casti_obce>
+<dtt:Nazev_ulice>Jana Å½iÅ¾ky</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>273</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>58856</dtt:PSC>
+<dtt:Adresa_UIR>
+<udt:Kod_oblasti>60</udt:Kod_oblasti>
+<udt:Kod_kraje>108</udt:Kod_kraje>
+<udt:Kod_okresu>3707</udt:Kod_okresu>
+<udt:Kod_obce>588024</udt:Kod_obce>
+<udt:Kod_casti_obce>412392</udt:Kod_casti_obce>
+<udt:PSC>58856</udt:PSC>
+<udt:Kod_ulice>174017</udt:Kod_ulice>
+<udt:Cislo_domovni>273</udt:Cislo_domovni>
+<udt:Typ_cislo_domovni>1</udt:Typ_cislo_domovni>
+<udt:Kod_adresy>12435104</udt:Kod_adresy>
+<udt:Kod_objektu>12359378</udt:Kod_objektu>
+<udt:PCD>1191491</udt:PCD>
+</dtt:Adresa_UIR>
+</are:Adresa_ARES>
+</are:Identifikace>
+<are:Kod_FU>317</are:Kod_FU>
+<are:Priznaky_subjektu>NNAANNNNNNNNNNNNNNNNNNNNANNNNN</are:Priznaky_subjektu>
+</are:Zaznam>
+</are:Odpoved>
+</are:Ares_odpovedi>
